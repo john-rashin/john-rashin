@@ -4,8 +4,8 @@ I'm John Rashin Lomoya😉, FullStack Developer 👨🏻‍💻 from Philippines
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+John+Rashin+Lomoya+22+years+old;FullStack+Developer;Flutter+Developer)](https://git.io/typing-svg)
 
-[![](https://img.shields.io/badge/Gmail-lomoyajohnrashin@gmail.com-red)](mailto:lomoyajohnrashin@gmail.com)[![](https://img.shields.io/badge/Linkedin-John%20Rashin%20Lomoya-blue)](www.linkedin.com/in/john-rashin-lomoya-482397196/)
- <img src="https://komarev.com/ghpvc/?username=your-github-john-rashin&style=flat-square" alt="John Rashin Lomoya" /> 
+[![](https://img.shields.io/badge/Gmail-lomoyajohnrashin@gmail.com-red)](mailto:lomoyajohnrashin@gmail.com) [![](https://img.shields.io/badge/Linkedin-John%20Rashin%20Lomoya-blue)](www.linkedin.com/in/john-rashin-lomoya-482397196/)
+<img src="https://komarev.com/ghpvc/?username=your-github-john-rashin&style=flat-square" alt="John Rashin Lomoya" /> 
 
 ### How to reach me: 
 <a href="mailto: lomoyajohnrashin@gmail.com"> 
@@ -20,7 +20,7 @@ I'm John Rashin Lomoya😉, FullStack Developer 👨🏻‍💻 from Philippines
 - 💼 I’m pursuing a <strong>Bachelor of Science in Computer Science</strong>.
 - 🔍 I’m looking for career opportunities in the <strong>Web Development</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Mobile Development, Web Development, NFT Projects</strong>
-- 👀 See my [Linked](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile/) to get more info
+- 👀 See my [Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile/) to get more info
 
 ### Tools I work upon : 🛠
 
