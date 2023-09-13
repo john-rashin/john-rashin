@@ -2,7 +2,7 @@
 
 I'm John Rashin Lomoya😉, FullStack Developer 👨🏻‍💻 from Philippines. 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+John+Rashin+Lomoya+22+years+old;FullStack+Developer;Flutter+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+John+Rashin+Lomoya+22+years+old;FullStack+Developer;Software+Engineer)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/Gmail-lomoyajohnrashin@gmail.com-red)](mailto:lomoyajohnrashin@gmail.com) [![](https://img.shields.io/badge/Linkedin-John%20Rashin%20Lomoya-blue)](www.linkedin.com/in/john-rashin-lomoya-482397196/)
 <img src="https://komarev.com/ghpvc/?username=your-github-john-rashin&style=flat-square" alt="John Rashin Lomoya" /> 
