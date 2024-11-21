@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-I'm John Rashin Lomoya😉, FullStack Developer 👨🏻‍💻 from Philippines. 
+I'm John Rashin Lomoya😉, Software Developer 👨🏻‍💻 from Philippines. 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+John+Rashin+Lomoya+23+years+old;Software+Developer)](https://git.io/typing-svg)
 
