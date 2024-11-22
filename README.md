@@ -17,9 +17,9 @@ I'm John Rashin Lomoya😉, Software Developer 👨🏻‍💻 from Philippines.
 
 ### Current Status Quote:
 
-- 💼 I’m pursuing a <strong>Bachelor of Science in Computer Science</strong>.
+- 💼 A recent graduate with a <strong>Bachelor of Science in Computer Science</strong>.
 - 🔍 I’m looking for career opportunities in the <strong>Web Development</strong> Industry.
-- 💬 Feel free to discuss with me about <strong>Mobile Development, Web Development, NFT Projects</strong>
+- 💬 Feel free to discuss with me about <strong>Mobile Development, Web Development</strong>
 - 👀 See my [Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile/) to get more info
 
 ### Tools I work upon : 🛠
