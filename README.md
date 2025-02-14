@@ -11,10 +11,11 @@ I'm John Rashin Lomoya😉, Software Developer 👨🏻‍💻 from Philippines.
 <a href="mailto: lomoyajohnrashin@gmail.com"> 
 <img src="https://img.shields.io/badge/-lomoyajohnrashin@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  
 <a href="https://www.instagram.com/johnrashin/"> 
-  <img src="https://img.shields.io/badge/@johnrashin-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/johnrashin/"> 
-    <img src="https://img.shields.io/badge/johnrashin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
-<img src="https://img.shields.io/badge/johnrashin.github.io-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/@johnrashin-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
+<a href="https://john-rashin.github.io/portfolio-website/"> 
+  <img src="https://img.shields.io/badge/johnrashin.github.io-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 
+  
 ### Current Status Quote:
 
 - 💼 A recent graduate with a <strong>Bachelor of Science in Computer Science</strong>.
