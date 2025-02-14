@@ -8,13 +8,13 @@ I'm John Rashin Lomoya😉, Software Developer 👨🏻‍💻 from Philippines.
 <img src="https://komarev.com/ghpvc/?username=your-github-john-rashin&style=flat-square" alt="John Rashin Lomoya" /> 
 
 ### How to reach me: 
-<a href="mailto: lomoyajohnrashin@gmail.com"> 
-<img src="https://img.shields.io/badge/-lomoyajohnrashin@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  
-<a href="https://www.instagram.com/johnrashin/"> 
-  <img src="https://img.shields.io/badge/@johnrashin-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
-<a href="https://john-rashin.github.io/portfolio-website/"> 
-  <img src="https://img.shields.io/badge/johnrashin.github.io-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 
+<a href="mailto: lomoyajohnrashin@gmail.com">
+<img src="https://img.shields.io/badge/-lomoyajohnrashin@gmail.com-7B83EB?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" ></a>
+<a href="https://www.instagram.com/johnrashin/">
+<img src="https://img.shields.io/badge/@johnrashin-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://john-rashin.github.io/portfolio-website/">
+<img src="https://img.shields.io/badge/johnrashin.github.io-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   
 ### Current Status Quote:
 
